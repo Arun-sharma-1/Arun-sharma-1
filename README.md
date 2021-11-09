@@ -1,7 +1,10 @@
  <h1 align="center">Hi 👋, I'm Arun Sharma</h1>
- <img align="right">
+ <div align="center">
 
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=arun-sharma-1&label=Profile%20views&color=0e75b6&style=flat" alt="arun-sharma-1" /> </p>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img src="https://komarev.com/ghpvc/?username=arun-sharma-1&label=Profile%20views&color=0e75b6&style=flat" alt="arun-sharma-1" /> 
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  
  
 <h3 align="center">Self-motivated computer science engineer with keen interest in coding.</h3>
 
