@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en" alt="arun-sharma-1" /></p>
 
-96
+
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arun-sharma-1&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-97
+
  
