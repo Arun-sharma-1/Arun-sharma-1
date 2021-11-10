@@ -1,4 +1,4 @@
- <h1 align="center" style="font-family: cursive;" >Hi <img src="Wave.gif" height="50px" width="55px">, I'm 𝔸𝕣𝕦𝕟 𝕊𝕙𝕒𝕣𝕞𝕒</h1>
+ <h1 align="center" style="font-family: cursive;" >Hi <img src="Wave.gif" height="50px" width="55px">, I'm 𝔸𝕣𝕦𝕟 <img src="https://img.icons8.com/material-outlined/24/000000/visible--v1.png"/>  𝕊𝕙𝕒𝕣𝕞𝕒</h1>
  <div align="center">
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arunmadhopur750@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/arun sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arun__sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun__sharma" height="30" width="40" /></a>
