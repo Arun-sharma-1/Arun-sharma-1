@@ -28,7 +28,9 @@
 <img  alt="Coding" height="400" src="github-contribution-grid-snake.svg"><br />
 <img align="left" height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-sharma-1&show_icons=true&locale=en&layout=compact" alt="arun-sharma-1">
 
-<img width="420" height="195" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en&layout=compact" alt="arun-sharma-1">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en" alt="arun-sharma-1" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-sharma-1&" alt="arun-sharma-1" /></p>
 
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arun-sharma-1&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
