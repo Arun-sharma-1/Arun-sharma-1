@@ -26,9 +26,9 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="40"/> </p><img align="left" alt="Coding" width="200"  src="RPWE.gif"></a> 
  <img  alt="Coding" height="400" src="github-contribution-grid-snake.svg"><br />
-<p><img align="left" height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-sharma-1&show_icons=true&locale=en&layout=compact" alt="arun-sharma-1" /></p>
+<img align="left" height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-sharma-1&show_icons=true&locale=en&layout=compact" alt="arun-sharma-1" />
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en" alt="arun-sharma-1" />
+<img width="420" height="190" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en" alt="arun-sharma-1" />
 
 
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arun-sharma-1&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
