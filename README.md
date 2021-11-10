@@ -29,7 +29,7 @@
 <img align="left" height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-sharma-1&show_icons=true&locale=en&layout=compact" alt="arun-sharma-1">
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en" alt="arun-sharma-1" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arun-sharma-1&show_icons=true&locale=en" alt="arun-sharma-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-sharma-1&" alt="arun-sharma-1" /></p>
 
