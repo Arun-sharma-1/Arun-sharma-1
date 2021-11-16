@@ -8,7 +8,7 @@
  
 <h3 align="center">Self-motivated computer science engineer with keen interest in coding.</h3>
 
-<p align="left" style="display:block;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-sharma-1" alt="arun-sharma-1" width="2000" /></a> </p>
+<p align="left" style="display:block;" style="padding-right=3rem;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-sharma-1" alt="arun-sharma-1" width="1800" padding-right="3rem" /></a> </p>
 
 - 📫 How to reach me **arunmadhopur750@gmail.com**
 
