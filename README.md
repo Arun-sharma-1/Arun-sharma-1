@@ -34,6 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-sharma-1&" alt="arun-sharma-1" /></p>
 
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=arun-sharma-1&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
+<a href="https://github.com/arun-sharma-1"><img alt="Arun's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=arun-sharma-1&custom_title=Arun's%20%20Graph&hide_border=true&theme=react-dark"/></a>
